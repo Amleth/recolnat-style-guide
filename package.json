@@ -1,0 +1,11 @@
+{
+  "name": "recolnat-style-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Bottini <thomas.bottini@gmail.com> (http://amleth.artisiou.com)",
+  "license": "ISC"
+}
